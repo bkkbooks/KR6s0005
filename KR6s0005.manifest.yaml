@@ -1,0 +1,357 @@
+canonical_identifier: bkk:krp/KR6s0005/v1
+canonical_location: https://kanripo.org/bkk/KR6s0005/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋氏要覽
+  identifiers:
+    alt_id:
+    - T54n2127
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2127.xml
+    old_id: T54n2127
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0005_000.yaml, hash: 'sha256:5e772cbc42da86f6725842c333addfcb6ef2b3f0de71f5eecba63e6bbd2d3156'}
+  - {seq: 1, filename: KR6s0005_001.yaml, hash: 'sha256:197b211a93c087fe4d61f0ba3bbceee3663ed3203697882fb9f39dd51a465b4e'}
+  - {seq: 2, filename: KR6s0005_002.yaml, hash: 'sha256:10c236fba514efa60f8d734de62d2d323492a13b12ac22ce4471c37f3d3131f5'}
+  - {seq: 3, filename: KR6s0005_003.yaml, hash: 'sha256:a644849a9978d2629e0fb561f6aa562289886103f30e49fcac866ec00459cc54'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0005_000.markers.yaml, hash: 'sha256:dba43d9d572dbd9d6c2ba052e32c905853a01ed31aa23bf3e94a1f687495a733'}
+  - {seq: 1, role: markers, filename: assets/KR6s0005_001.markers.yaml, hash: 'sha256:0ef77d08121d2c91028fe0fe72ef9df3032cce383c4c3ac964ab9fa67e500f4d'}
+  - {seq: 2, role: markers, filename: assets/KR6s0005_002.markers.yaml, hash: 'sha256:24718263acee7c5ccc1f59689b0f5c031dab8122126ced80f31e886e151bd098'}
+  - {seq: 3, role: markers, filename: assets/KR6s0005_003.markers.yaml, hash: 'sha256:f866c90c3e7405411c6833f3d816ce880a4c5a6f2cfd781de15d720783af0a7c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0005_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 釋氏要覽序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 26885
+  label: 釋氏要覽卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-1
+    span:
+    - body
+    - 211
+    - 211
+  label: 篇目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-2
+    span:
+    - body
+    - 310
+    - 310
+  label: 姓氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-3
+    span:
+    - body
+    - 1487
+    - 1487
+  label: 稱謂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-4
+    span:
+    - body
+    - 6403
+    - 6403
+  label: 住處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-5
+    span:
+    - body
+    - 8554
+    - 8554
+  label: 出家
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-6
+    span:
+    - body
+    - 10593
+    - 10593
+  label: 師資
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-7
+    span:
+    - body
+    - 12478
+    - 12478
+  label: 剃髮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-8
+    span:
+    - body
+    - 13936
+    - 13936
+  label: 法衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-9
+    span:
+    - body
+    - 17910
+    - 17910
+  label: 戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0005_T_001-mulu-10
+    span:
+    - body
+    - 22194
+    - 22194
+  label: 中食
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 22422
+  label: 釋氏要覽卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 禮數
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-2
+    span:
+    - body
+    - 1964
+    - 1964
+  label: 道具
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-3
+    span:
+    - body
+    - 4270
+    - 4270
+  label: 制聽
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-4
+    span:
+    - body
+    - 5812
+    - 5812
+  label: 畏慎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-5
+    span:
+    - body
+    - 7609
+    - 7609
+  label: 勤懈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-6
+    span:
+    - body
+    - 8151
+    - 8151
+  label: 三寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-7
+    span:
+    - body
+    - 16225
+    - 16225
+  label: 恩孝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-8
+    span:
+    - body
+    - 17358
+    - 17358
+  label: 界趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6s0005_T_002-mulu-9
+    span:
+    - body
+    - 20388
+    - 20388
+  label: 志學
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 21296
+  label: 釋氏要覽卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-1
+    span:
+    - body
+    - 35
+    - 35
+  label: 說聽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-2
+    span:
+    - body
+    - 1909
+    - 1909
+  label: 躁靜
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-3
+    span:
+    - body
+    - 3718
+    - 3718
+  label: 諍忍
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-4
+    span:
+    - body
+    - 4830
+    - 4830
+  label: 入眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-5
+    span:
+    - body
+    - 8117
+    - 8117
+  label: 擇友
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-6
+    span:
+    - body
+    - 8762
+    - 8762
+  label: 住持
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-7
+    span:
+    - body
+    - 12030
+    - 12030
+  label: 雜紀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-8
+    span:
+    - body
+    - 15514
+    - 15514
+  label: 贍病
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6s0005_T_003-mulu-9
+    span:
+    - body
+    - 17384
+    - 17384
+  label: 送終
+  type: mulu
+  level: 1
+hash: sha256:e2d82271ed4657c123ce2cfdcd7e6263b41ea3aeaa990c8c9668b59ae16ae176
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
